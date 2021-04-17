@@ -1,2 +1,3 @@
-# Y360_DEVICE_TREE
-FISRT
+Device configuration for Huawei Y360
+==============
+
